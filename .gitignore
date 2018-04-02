@@ -1,4 +1,6 @@
 cifar-10-batches-py
+cifar_convnet_model
+cifar_convnet_model_2
 .idea
 .idea/*
 __pycache__
